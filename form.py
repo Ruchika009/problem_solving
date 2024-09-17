@@ -56,6 +56,11 @@ elif school==4:
 
 s=int(input("Enter semester:"))
 h=input("Course name:")
+print("student name")
+print("cource code")
+print("fecaulty name")
+print 
+print 
 j=input("Course code:")
 k=input("Faculty name:")
 
